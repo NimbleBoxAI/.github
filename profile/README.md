@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-<img src="https://nimblebox.ai/webstatic/images/site-logo.png" />
+<img src="./poster.jpeg" width="100%" />
 <br />
 
 
